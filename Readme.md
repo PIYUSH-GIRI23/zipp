@@ -1,38 +1,59 @@
 ## To access Zipp, you have to clone both zipp-client2 and zipp-server
 
-## Zipp-client : git clone https://github.com/PIYUSH-GIRI23/zipp-client2.git
+## Zipp-client : 
+```
+git clone https://github.com/PIYUSH-GIRI23/zipp-client2.git
+```
 
 ## Zipp-server : It contains 4 microservices
 
-- Auth : git clone https://github.com/PIYUSH-GIRI23/zipp-auth.git
-- Mailservice : git clone https://github.com/PIYUSH-GIRI23/zipp-mailservice.git
-- Clip : git clone https://github.com/PIYUSH-GIRI23/zipp-clip.git
-- Api Gateway : git clone https://github.com/PIYUSH-GIRI23/zipp-api-gateway.git
+- Auth : For user authentication
+```
+git clone https://github.com/PIYUSH-GIRI23/zipp-auth.git
+```
+- Mailservice :For sending mail and alerts
+```
+git clone https://github.com/PIYUSH-GIRI23/zipp-mailservice.git
+```
+
+- Clip : Fir storing text and media to database
+```
+git clone https://github.com/PIYUSH-GIRI23/zipp-clip.git
+```
+
+- Api Gateway : Entry point for all backend services which rate limits the services
+```
+git clone https://github.com/PIYUSH-GIRI23/zipp-api-gateway.git
+```
 
 --- 
 
-## How to run
+## Start the project
 
 - Now you got 5 modules (1 client + 4 server)
 - After installing all client and server module 
 
 1. Copy Environment Variables in each module
-
+```
 cp .env.local .env
+```
 
 2. Install dependencies in all modules
-
+```
 npm install
+```
 
 3. Run teh executable file in root folder (It will spin up all 5 modules together)
-
+```
 ./run.sh
+```
 
 4. Go to http://localhost:5173 to access frontend
 
 To stop the services, run
-
+```
 ./stop.sh
+```
 
 --- 
 🌐 Connect with Me
