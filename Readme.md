@@ -43,12 +43,12 @@ cp .env.local .env
 npm install
 ```
 
-3. Run teh executable file in root folder (It will spin up all 5 modules together)
+3. Run the executable file in root folder (It will spin up all 5 modules together)
 ```
 ./run.sh
 ```
 
-4. Go to http://localhost:5173 to access frontend
+4. Go to http://localhost:5173/ to access frontend
 
 To stop the services, run
 ```
