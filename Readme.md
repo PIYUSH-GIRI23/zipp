@@ -1,7 +1,7 @@
 ## Zipp — Fast clipboard for text & media
 
 <!-- Shields / quick status -->
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
+
 [![Frontend](https://img.shields.io/badge/frontend-React%2BTypeScript-brightgreen.svg)](#)
 [![Backend](https://img.shields.io/badge/backend-Node.js%2BExpress-orange.svg)](#)
 
@@ -28,16 +28,6 @@ A lightweight clipboard manager to save text, images and files across devices. Z
 - Secure downloads via signed URLs
 - Microservice architecture (auth, mailservice, clip, gateway)
 
----
-
-## Hero / Demo (replace with screenshots)
-
-Add screenshots or a short animated GIF here to showcase the app UI (put files under `zipp-client/public` and update paths):
-
-- `./public/screenshots/homepage.png` — homepage
-- `./public/screenshots/clipboard.png` — clips list
-
----
 
 ## Quick start (local development)
 
