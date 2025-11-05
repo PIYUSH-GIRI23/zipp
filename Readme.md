@@ -1,5 +1,8 @@
 ## Zipp — Fast clipboard for text & media
 
+<img width="120" height="101" alt="image" src="https://github.com/user-attachments/assets/e73b044f-8a3e-419c-b808-cd1deb244508" />
+
+
 <!-- Shields / quick status -->
 
 [![Frontend](https://img.shields.io/badge/frontend-React%2BTypeScript-brightgreen.svg)](#)
@@ -8,6 +11,13 @@
 A lightweight clipboard manager to save text, images and files across devices. Zipp is split into a client (frontend) and several backend microservices so you can run and extend parts independently.
 
 ---
+
+<img width="401" height="278" alt="1" src="https://github.com/user-attachments/assets/b0cab85a-4b82-4945-9baa-e5662624c1e6" />
+<img width="422" height="212" alt="2" src="https://github.com/user-attachments/assets/6951c9fe-5843-48a2-ad68-76263d46082b" />
+<img width="425" height="278" alt="3" src="https://github.com/user-attachments/assets/631fa81f-0238-4a07-be05-882804731539" />
+<img width="469" height="204" alt="4" src="https://github.com/user-attachments/assets/50da7343-349b-440e-b768-46c896c8526a" />
+<img width="482" height="251" alt="5" src="https://github.com/user-attachments/assets/f5d0f9c7-eef5-4d5e-aaa9-a3cd1a22e9b6" />
+
 
 ## Quick links
 
